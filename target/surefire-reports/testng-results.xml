@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-19T11:40:23 EST" name="Suite" finished-at="2025-02-19T11:40:23 EST" duration-ms="0">
+    <groups>
+      <group name="datadriven">
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@10cf09e8]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@6a55299e]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@5a18cd76]" name="testLogin" class="testCases.TC02_Login"/>
+      </group> <!-- datadriven -->
+      <group name="regression">
+        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@3a4621bd]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@10cf09e8]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@40db2a24]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
+        <method signature="TC04_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC04_CompletePurchase@ee86bcb]" name="testCompletePurchase" class="testCases.TC04_CompletePurchase"/>
+        <method signature="TC05_AddAnItemToWishList.testAddToWishList()[pri:0, instance:testCases.TC05_AddAnItemToWishList@1921ad94]" name="testAddToWishList" class="testCases.TC05_AddAnItemToWishList"/>
+        <method signature="TC06_PurchaseAGiftCertificate.testPurchaseAGiftCertificate()[pri:0, instance:testCases.TC06_PurchaseAGiftCertificate@1f010bf0]" name="testPurchaseAGiftCertificate" class="testCases.TC06_PurchaseAGiftCertificate"/>
+        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@79179359]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@6a55299e]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@51acdf2e]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
+        <method signature="TC04_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC04_CompletePurchase@4eb386df]" name="testCompletePurchase" class="testCases.TC04_CompletePurchase"/>
+        <method signature="TC05_AddAnItemToWishList.testAddToWishList()[pri:0, instance:testCases.TC05_AddAnItemToWishList@2f1de2d6]" name="testAddToWishList" class="testCases.TC05_AddAnItemToWishList"/>
+        <method signature="TC06_PurchaseAGiftCertificate.testPurchaseAGiftCertificate()[pri:0, instance:testCases.TC06_PurchaseAGiftCertificate@dbd8e44]" name="testPurchaseAGiftCertificate" class="testCases.TC06_PurchaseAGiftCertificate"/>
+        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@3a0baae5]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@5a18cd76]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@289710d9]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
+        <method signature="TC04_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC04_CompletePurchase@403f0a22]" name="testCompletePurchase" class="testCases.TC04_CompletePurchase"/>
+        <method signature="TC05_AddAnItemToWishList.testAddToWishList()[pri:0, instance:testCases.TC05_AddAnItemToWishList@3da30852]" name="testAddToWishList" class="testCases.TC05_AddAnItemToWishList"/>
+        <method signature="TC06_PurchaseAGiftCertificate.testPurchaseAGiftCertificate()[pri:0, instance:testCases.TC06_PurchaseAGiftCertificate@7ac0e420]" name="testPurchaseAGiftCertificate" class="testCases.TC06_PurchaseAGiftCertificate"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@3a4621bd]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@10cf09e8]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@40db2a24]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
+        <method signature="TC04_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC04_CompletePurchase@ee86bcb]" name="testCompletePurchase" class="testCases.TC04_CompletePurchase"/>
+        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@79179359]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@6a55299e]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@51acdf2e]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
+        <method signature="TC04_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC04_CompletePurchase@4eb386df]" name="testCompletePurchase" class="testCases.TC04_CompletePurchase"/>
+        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@3a0baae5]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
+        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@5a18cd76]" name="testLogin" class="testCases.TC02_Login"/>
+        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@289710d9]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
+        <method signature="TC04_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC04_CompletePurchase@403f0a22]" name="testCompletePurchase" class="testCases.TC04_CompletePurchase"/>
+      </group> <!-- smoke -->
+    </groups>
+  </suite> <!-- Suite -->
+</testng-results>
